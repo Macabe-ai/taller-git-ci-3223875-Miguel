@@ -1,0 +1,24 @@
+{
+  "name": "taller-git-ci-3223875-miguel",
+  "version": "1.0.0",
+  "description": "Proyecto de práctica sobre ramas, commits, Pull Requests, Code Review y\r GitHub Actions con Prettier + tests.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/Macabe-ai/taller-git-ci-3223875-Miguel.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Macabe-ai/taller-git-ci-3223875-Miguel/issues"
+  },
+  "homepage": "https://github.com/Macabe-ai/taller-git-ci-3223875-Miguel#readme"
+}
